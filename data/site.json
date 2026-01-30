@@ -1,0 +1,103 @@
+{
+  "association": {
+    "name": "ADFAS",
+    "fullName": "Association Djiboutienne de France pour l'Amitié et la Solidarité",
+    "tagline": "Amitié et solidarité entre la France et Djibouti",
+    "logo": "/images/logo-adfas.png",
+    "banner": "/images/bandeau.png",
+    "description": "L'association ADFAS est une association à la fois humanitaire, de solidarité internationale et socio-culturelle. À Djibouti, elle envoie des vivres et du matériel médical, elle a aussi monté plusieurs projets de développement sur place, comme l'envoi de lampes aux écoliers d'un village ou la création d'une bibliothèque. En France, elle travaille sur la promotion de la culture djiboutienne et s'adresse à tout public désirant en apprendre plus sur la république de Djibouti, en organisant notamment des conférences, des repas, des kermesses, des expositions et des rencontres.",
+    "mission": "L'association se veut rassembleuse et travaille aussi sur l'aspect social et développement Nord-Sud pour la communauté franco-djiboutienne. C'est pourquoi nous restons ouverts à toutes nouvelles idées et sensibilités et avons hâte de vous rencontrer !",
+    "founded": 2011,
+    "contact": {
+      "email": "contact@adfas.fr",
+      "phones": [
+        {
+          "name": "Moumina KAWALIEH",
+          "role": "Présidente",
+          "phone": "06.88.32.39.72"
+        },
+        {
+          "name": "Robleh WABERI",
+          "role": "Coordinateur",
+          "phone": "06.27.87.07.62"
+        }
+      ]
+    }
+  },
+  "team": {
+    "year": 2018,
+    "members": [
+      {
+        "name": "Moumina Guelleh Kawalieh",
+        "role": "Présidente",
+        "gender": "female"
+      },
+      {
+        "name": "Nasra Djama Toukaleh",
+        "role": "Vice-Présidente",
+        "gender": "female"
+      },
+      {
+        "name": "Lisa Ordronneau",
+        "role": "Secrétaire générale",
+        "gender": "female"
+      },
+      {
+        "name": "Hassan Hamadou Ali",
+        "role": "Secrétaire général adjoint",
+        "gender": "male"
+      },
+      {
+        "name": "Fadouma Ahmed",
+        "role": "Trésorière",
+        "gender": "female"
+      },
+      {
+        "name": "Robleh Djama Waberi",
+        "role": "Coordinateur",
+        "gender": "male"
+      }
+    ]
+  },
+  "navigation": [
+    { "label": "Accueil", "href": "/" },
+    { "label": "Projets", "href": "/projets" },
+    { "label": "Événements", "href": "/evenements" },
+    { "label": "Adhésion", "href": "/inscription" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "heroSlides": [
+    {
+      "title": "Bienvenue sur le site d'ADFAS",
+      "subtitle": "Amitié et solidarité entre la France et Djibouti",
+      "image": "/images/hero-1.jpg"
+    },
+    {
+      "title": "Culture et Découverte",
+      "subtitle": "Venez découvrir la république de Djibouti",
+      "image": "/images/hero-2.jpg"
+    }
+  ],
+  "values": [
+    {
+      "title": "Solidarité",
+      "description": "Envoi de vivres et de matériel médical à Djibouti",
+      "icon": "heart"
+    },
+    {
+      "title": "Culture",
+      "description": "Promotion de la culture djiboutienne en France",
+      "icon": "culture"
+    },
+    {
+      "title": "Développement",
+      "description": "Projets de développement sur place",
+      "icon": "growth"
+    },
+    {
+      "title": "Rassemblement",
+      "description": "Communauté franco-djiboutienne unie",
+      "icon": "community"
+    }
+  ]
+}
