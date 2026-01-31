@@ -37,16 +37,16 @@
         }
       ],
       "images": [
-        "/images/events/journee_culture_2019_1.jpg",
-        "/images/events/journee_culture_2019_2.jpg",
-        "/images/events/journee_culture_2019_3.jpg",
-        "/images/events/journee_culture_2019_4.jpg",
-        "/images/events/journee_culture_2019_5.jpg",
-        "/images/events/journee_culture_2019_6.jpg",
-        "/images/events/journee_culture_2019_7.jpg",
-        "/images/events/journee_culture_2019_8.jpg",
-        "/images/events/journee_culture_2019_9.jpg",
-        "/images/events/journee_culture_2019_10.jpg"
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_1.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_2.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_3.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_4.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_5.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_6.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_7.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_8.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_9.jpg",
+        "https://pub-f56716069e024920a4d525935521b529.r2.dev/adfas/events/2019/journee_culture_2019_10.jpg"
       ],
       "author": "Moumina Kawalieh",
       "tags": ["culture", "conférence", "recap"]
@@ -83,7 +83,7 @@
         }
       ],
       "images": [
-        "/images/events/jc2017-1.jpg"
+        "https://empty-cloud-7140.liamsi2019.workers.dev/data/photo-events/journee_culture-2017.jpg"
       ],
       "author": "Moumina Kawalieh",
       "tags": ["culture", "conférence", "histoire", "recap"]
